@@ -1,1 +1,1 @@
-# First Day Repo
+# first-day-demo
